@@ -1,5 +1,6 @@
 # openmmlab-task-adavanced-
 cifar10
+第一次作业 进阶作业
 
 数据读入：mmclassification直接能识别cifar数据，所以直接将数据形式'imagenet'改成'CIRAR10'
 
